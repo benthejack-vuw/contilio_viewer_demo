@@ -1,0 +1,16 @@
+.viewer-page {
+    height: 100vh;
+    width: 100vw;
+}
+
+.viewer-page__item-list {
+    float: left;
+    width: 20%;
+    height: 100%;
+}
+
+.viewer-page__mesh-viewer {
+    float: left;
+    width: 80%;
+    height: 100%;
+}

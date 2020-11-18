@@ -1,0 +1,27 @@
+.login-page {
+    width: 100vw;
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.login-page__login-box {
+    border: 1px solid black;
+    padding: 1em;
+    width: 25%;
+    height: 25%;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+}
+
+
+.login-page__login-box label {
+    width: 100%;
+    margin-bottom: 10px;
+}
+
+.login-page__login-box input {
+    width: 75%;
+}
