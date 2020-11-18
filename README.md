@@ -41,6 +41,9 @@ If this were for real I'd have taken the time to think of a tidier way to do thi
 Redux contains all the meshData which makes it super easy to link react components with actions in the actual 3D view.
 speedy development this way.
 
+As far as style goes, I prefer function components and hooks to class-based components and make heavy use of map, reduce, filter, find etc. 
+see csvToJsonArray in server.js as an example
+
 Cheers,
 Ben
 
