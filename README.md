@@ -7,6 +7,9 @@ node server.js
 
 served at localhost:2000
 
+user name: user
+password: password
+
 ## Extra controls
 1: 'h' and 'r' still work as expected, but you can also show/hide individual items by clicking the visibility icons beside the item name in the item list 
 
@@ -17,8 +20,9 @@ served at localhost:2000
 
 
 ## Notes
-
 had some fun with this, probably went overboard.
+
+Please let me know when you have this so I can hide/remove the repo
 
 I haven't made it particularly pretty, just bashed out the functionality.
 
@@ -37,5 +41,6 @@ If this were for real I'd have taken the time to think of a tidier way to do thi
 Redux contains all the meshData which makes it super easy to link react components with actions in the actual 3D view.
 speedy development this way.
 
-
+Cheers,
+Ben
 
