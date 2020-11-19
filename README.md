@@ -1,4 +1,6 @@
 # Build and run
+requires node v12.4+
+
 npm install
 
 npm run build
